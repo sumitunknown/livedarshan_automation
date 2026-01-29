@@ -1,0 +1,94 @@
+{
+  "temples": [
+    {
+      "id": "tirupati",
+      "name": "Tirumala Tirupati Balaji",
+      "search_queries": ["tirumala tirupati live darshan", "TTD live darshan", "tirupati balaji live"],
+      "priority": 1
+    },
+    {
+      "id": "vaishno_devi",
+      "name": "Vaishno Devi",
+      "search_queries": ["vaishno devi live darshan", "mata vaishno devi live aarti"],
+      "priority": 2
+    },
+    {
+      "id": "shirdi",
+      "name": "Shirdi Sai Baba",
+      "search_queries": ["shirdi sai baba live darshan", "shirdi live aarti", "sai baba samadhi mandir live"],
+      "priority": 3
+    },
+    {
+      "id": "siddhivinayak",
+      "name": "Siddhivinayak Mumbai",
+      "search_queries": ["siddhivinayak live darshan", "siddhivinayak mumbai live"],
+      "priority": 4
+    },
+    {
+      "id": "golden_temple",
+      "name": "Golden Temple Amritsar",
+      "search_queries": ["golden temple live", "harmandir sahib live kirtan", "golden temple amritsar live"],
+      "priority": 5
+    },
+    {
+      "id": "kashi_vishwanath",
+      "name": "Kashi Vishwanath Varanasi",
+      "search_queries": ["kashi vishwanath live darshan", "varanasi temple live", "banaras live aarti"],
+      "priority": 6
+    },
+    {
+      "id": "iskcon_mayapur",
+      "name": "ISKCON Mayapur",
+      "search_queries": ["iskcon mayapur live", "mayapur live darshan", "iskcon live kirtan"],
+      "priority": 7
+    },
+    {
+      "id": "jagannath_puri",
+      "name": "Jagannath Puri",
+      "search_queries": ["jagannath puri live darshan", "puri temple live", "jagannath mandir live"],
+      "priority": 8
+    },
+    {
+      "id": "somnath",
+      "name": "Somnath Temple",
+      "search_queries": ["somnath temple live darshan", "somnath live aarti"],
+      "priority": 9
+    },
+    {
+      "id": "mahakaleshwar",
+      "name": "Mahakaleshwar Ujjain",
+      "search_queries": ["mahakaleshwar live darshan", "ujjain mahakal live", "bhasma aarti live"],
+      "priority": 10
+    },
+    {
+      "id": "meenakshi",
+      "name": "Meenakshi Temple Madurai",
+      "search_queries": ["meenakshi temple live darshan", "madurai meenakshi live"],
+      "priority": 11
+    },
+    {
+      "id": "kedarnath",
+      "name": "Kedarnath Temple",
+      "search_queries": ["kedarnath live darshan", "kedarnath temple live"],
+      "priority": 12
+    },
+    {
+      "id": "badrinath",
+      "name": "Badrinath Temple",
+      "search_queries": ["badrinath live darshan", "badrinath temple live aarti"],
+      "priority": 13
+    },
+    {
+      "id": "dwarkadhish",
+      "name": "Dwarkadhish Temple",
+      "search_queries": ["dwarkadhish live darshan", "dwarka temple live"],
+      "priority": 14
+    },
+    {
+      "id": "ram_mandir",
+      "name": "Ram Mandir Ayodhya",
+      "search_queries": ["ram mandir ayodhya live darshan", "ayodhya ram mandir live", "ram lalla live darshan"],
+      "priority": 15
+    }
+  ]
+}
