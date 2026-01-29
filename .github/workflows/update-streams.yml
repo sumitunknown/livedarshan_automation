@@ -15,6 +15,9 @@ on:
       - 'temples.json'
       - 'find_live_streams.py'
 
+permissions:
+  contents: write
+
 jobs:
   update-streams:
     runs-on: ubuntu-latest
