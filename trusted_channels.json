@@ -1,0 +1,121 @@
+{
+  "shirdi_sai": {
+    "main_channel": {
+      "channel_name": "Sai Ki Mahima with Aushim Khetarpal",
+      "channel_id": "UC-JaNNlKf2DVDYXjx_Ok1CA",
+      "channel_url": "https://www.youtube.com/channel/UC-JaNNlKf2DVDYXjx_Ok1CA"
+    },
+    "backup_channels": [
+      {
+        "channel_name": "The Real SoulShirdi Sai",
+        "channel_id": "UCstmnfIOcvO-6DONnfKhAPg",
+        "channel_url": "https://www.youtube.com/channel/UCstmnfIOcvO-6DONnfKhAPg"
+      },
+      {
+        "channel_name": "Akshay Raju Saxena",
+        "channel_id": "UC4n6_Wn-dBIWaIUFFNCz5Pg",
+        "channel_url": "https://www.youtube.com/channel/UC4n6_Wn-dBIWaIUFFNCz5Pg"
+      }
+    ]
+  },
+  "somnath": {
+    "main_channel": {
+      "channel_name": "Somnath Temple - Official Channel",
+      "channel_id": "UCT1egsvA08YcdMLiEu1DTRg",
+      "channel_url": "https://www.youtube.com/channel/UCT1egsvA08YcdMLiEu1DTRg"
+    },
+    "backup_channels": []
+  },
+  "salasar": {
+    "main_channel": {
+      "channel_name": "Shree Salasar Balaji Mandir",
+      "channel_id": "UC82-0zBQho_hyV10fFAAeQA",
+      "channel_url": "https://www.youtube.com/channel/UC82-0zBQho_hyV10fFAAeQA"
+    },
+    "backup_channels": []
+  },
+  "dwarkadhish": {
+    "main_channel": {
+      "channel_name": "Shri Dwarkadhish Mandir",
+      "channel_id": "UCBAvMHZO3BIfMMhOK9LMOYQ",
+      "channel_url": "https://www.youtube.com/channel/UCBAvMHZO3BIfMMhOK9LMOYQ"
+    },
+    "backup_channels": []
+  },
+  "radhavallabh": {
+    "main_channel": {
+      "channel_name": "Shri Radhavallabh Mandir",
+      "channel_id": "UCTw4wtqF6KEA8ULDSi_6fUQ",
+      "channel_url": "https://www.youtube.com/channel/UCTw4wtqF6KEA8ULDSi_6fUQ"
+    },
+    "backup_channels": []
+  },
+  "mahakal": {
+    "main_channel": {
+      "channel_name": "Mahakaleshwar Jyotirlinga Live Darshan",
+      "channel_id": "UC7q12ONY2mvuq066rreluhQ",
+      "channel_url": "https://www.youtube.com/channel/UC7q12ONY2mvuq066rreluhQ"
+    },
+    "backup_channels": [
+      {
+        "channel_name": "Krishna Gyan Sagar",
+        "channel_id": "UC1qqv4R3RhT5OVMy-E_PciQ",
+        "channel_url": "https://www.youtube.com/channel/UC1qqv4R3RhT5OVMy-E_PciQ"
+      }
+    ]
+  },
+  "mahalakshmi": {
+    "main_channel": {
+      "channel_name": "Shree Mahalakshmi Mandir Mumbai Official",
+      "channel_id": "UCqNGTFK0_nHU2Ldj3ZKScYw",
+      "channel_url": "https://www.youtube.com/channel/UCqNGTFK0_nHU2Ldj3ZKScYw"
+    },
+    "backup_channels": []
+  },
+  "naina_devi": {
+    "main_channel": {
+      "channel_name": "BHAKTI LIVE",
+      "channel_id": "UCXhail7h5FDRbHprlR56nIw",
+      "channel_url": "https://www.youtube.com/channel/UCXhail7h5FDRbHprlR56nIw"
+    },
+    "backup_channels": []
+  },
+  "iskcon_juhu": {
+    "main_channel": {
+      "channel_name": "ISKCON Juhu Mumbai",
+      "channel_id": "UC1vJ4RlWSHP6n0xL2G1tkYQ",
+      "channel_url": "https://www.youtube.com/channel/UC1vJ4RlWSHP6n0xL2G1tkYQ"
+    },
+    "backup_channels": []
+  },
+  "pashupatinath": {
+    "main_channel": {
+      "channel_name": "Krishna Gyan Sagar",
+      "channel_id": "UC1qqv4R3RhT5OVMy-E_PciQ",
+      "channel_url": "https://www.youtube.com/channel/UC1qqv4R3RhT5OVMy-E_PciQ"
+    },
+    "backup_channels": []
+  },
+  "jagannath": {
+    "main_channel": {
+      "channel_name": "JAY JAGANNATH TV",
+      "channel_id": "UCET-LB-LgAuDS-Cy8nfH4-w",
+      "channel_url": "https://www.youtube.com/channel/UCET-LB-LgAuDS-Cy8nfH4-w"
+    },
+    "backup_channels": []
+  },
+  "vishwanath": {
+    "main_channel": {
+      "channel_name": "DD Astro",
+      "channel_id": "UCRlCP3s0DGzfFNZhR6oozRg",
+      "channel_url": "https://www.youtube.com/channel/UCRlCP3s0DGzfFNZhR6oozRg"
+    },
+    "backup_channels": [
+      {
+        "channel_name": "Awadh Mala",
+        "channel_id": "UCsCY7yimnS3FCIo-SCXD-Zg",
+        "channel_url": "https://www.youtube.com/channel/UCsCY7yimnS3FCIo-SCXD-Zg"
+      }
+    ]
+  }
+}

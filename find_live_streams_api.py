@@ -120,6 +120,11 @@ def find_streams_for_temple(temple: dict) -> dict | None:
             except:
                 viewer_count = 0
             
+            # Get timing info
+            actual_start = live_details.get('actualStartTime', '')
+            scheduled_start = live_details.get('scheduledStartTime', '')
+            published_at = snippet.get('publishedAt', '')
+            
             return {
                 "temple_id": temple['id'],
                 "temple_name": temple['name'],
@@ -130,6 +135,8 @@ def find_streams_for_temple(temple: dict) -> dict | None:
                 "channel": snippet.get('channelTitle', ''),
                 "channel_id": snippet.get('channelId', ''),
                 "viewer_count": viewer_count,
+                "stream_started_at": actual_start or scheduled_start,
+                "published_at": published_at,
                 "thumbnail": snippet.get('thumbnails', {}).get('high', {}).get('url', 
                     f"https://img.youtube.com/vi/{video_id}/hqdefault.jpg"),
             }

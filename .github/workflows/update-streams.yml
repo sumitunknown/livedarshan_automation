@@ -12,8 +12,8 @@ on:
   push:
     branches: [main]
     paths:
-      - 'temples.json'
-      - 'find_live_streams_api.py'
+      - 'temples_v3.json'
+      - 'find_live_streams_v3.py'
 
 permissions:
   contents: write
@@ -40,7 +40,7 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
-          python find_live_streams_api.py
+          python find_live_streams_v3.py
       
       - name: Commit and push changes
         run: |

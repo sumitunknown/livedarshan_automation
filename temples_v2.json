@@ -1,0 +1,144 @@
+{
+  "temples": [
+    {
+      "id": "shirdi_sai",
+      "name": "Shirdi Sai Baba",
+      "priority": 1,
+      "trusted_channels": [
+        {"id": "UC-JaNNlKf2DVDYXjx_Ok1CA", "name": "Sai Ki Mahima with Aushim Khetarpal"},
+        {"id": "UCstmnfIOcvO-6DONnfKhAPg", "name": "The Real SoulShirdi Sai"},
+        {"id": "UC4n6_Wn-dBIWaIUFFNCz5Pg", "name": "Akshay Raju Saxena"}
+      ],
+      "search_queries": ["shirdi sai baba live darshan"]
+    },
+    {
+      "id": "somnath",
+      "name": "Somnath Temple",
+      "priority": 2,
+      "trusted_channels": [
+        {"id": "UCT1egsvA08YcdMLiEu1DTRg", "name": "Somnath Temple - Official Channel"}
+      ],
+      "search_queries": ["somnath temple live darshan"]
+    },
+    {
+      "id": "salasar",
+      "name": "Salasar Balaji",
+      "priority": 3,
+      "trusted_channels": [
+        {"id": "UC82-0zBQho_hyV10fFAAeQA", "name": "Shree Salasar Balaji Mandir"}
+      ],
+      "search_queries": ["salasar balaji live darshan"]
+    },
+    {
+      "id": "dwarkadhish",
+      "name": "Dwarkadhish Temple",
+      "priority": 4,
+      "trusted_channels": [
+        {"id": "UCBAvMHZO3BIfMMhOK9LMOYQ", "name": "Shri Dwarkadhish Mandir"}
+      ],
+      "search_queries": ["dwarkadhish live darshan"]
+    },
+    {
+      "id": "radhavallabh",
+      "name": "Shri Radhavallabh Mandir",
+      "priority": 5,
+      "trusted_channels": [
+        {"id": "UCTw4wtqF6KEA8ULDSi_6fUQ", "name": "Shri Radhavallabh Mandir"}
+      ],
+      "search_queries": ["radhavallabh vrindavan live"]
+    },
+    {
+      "id": "mahakal",
+      "name": "Mahakaleshwar Ujjain",
+      "priority": 6,
+      "trusted_channels": [
+        {"id": "UC7q12ONY2mvuq066rreluhQ", "name": "Mahakaleshwar Jyotirlinga Live Darshan"},
+        {"id": "UC1qqv4R3RhT5OVMy-E_PciQ", "name": "Krishna Gyan Sagar"}
+      ],
+      "search_queries": ["mahakaleshwar live darshan"]
+    },
+    {
+      "id": "mahalakshmi",
+      "name": "Mahalakshmi Temple Mumbai",
+      "priority": 7,
+      "trusted_channels": [
+        {"id": "UCqNGTFK0_nHU2Ldj3ZKScYw", "name": "Shree Mahalakshmi Mandir Mumbai Official"}
+      ],
+      "search_queries": ["mahalakshmi mumbai live darshan"]
+    },
+    {
+      "id": "naina_devi",
+      "name": "Naina Devi Temple",
+      "priority": 8,
+      "trusted_channels": [
+        {"id": "UCXhail7h5FDRbHprlR56nIw", "name": "BHAKTI LIVE"}
+      ],
+      "search_queries": ["naina devi live darshan"]
+    },
+    {
+      "id": "iskcon_juhu",
+      "name": "ISKCON Juhu Mumbai",
+      "priority": 9,
+      "trusted_channels": [
+        {"id": "UC1vJ4RlWSHP6n0xL2G1tkYQ", "name": "ISKCON Juhu Mumbai"}
+      ],
+      "search_queries": ["iskcon juhu live"]
+    },
+    {
+      "id": "pashupatinath",
+      "name": "Pashupatinath Temple",
+      "priority": 10,
+      "trusted_channels": [
+        {"id": "UC1qqv4R3RhT5OVMy-E_PciQ", "name": "Krishna Gyan Sagar"}
+      ],
+      "search_queries": ["pashupatinath live darshan"]
+    },
+    {
+      "id": "jagannath",
+      "name": "Jagannath Puri",
+      "priority": 11,
+      "trusted_channels": [
+        {"id": "UCET-LB-LgAuDS-Cy8nfH4-w", "name": "JAY JAGANNATH TV"}
+      ],
+      "search_queries": ["jagannath puri live darshan"]
+    },
+    {
+      "id": "vishwanath",
+      "name": "Kashi Vishwanath",
+      "priority": 12,
+      "trusted_channels": [
+        {"id": "UCRlCP3s0DGzfFNZhR6oozRg", "name": "DD Astro"},
+        {"id": "UCsCY7yimnS3FCIo-SCXD-Zg", "name": "Awadh Mala"}
+      ],
+      "search_queries": ["kashi vishwanath live darshan"]
+    },
+    {
+      "id": "tirupati",
+      "name": "Tirumala Tirupati Balaji",
+      "priority": 13,
+      "trusted_channels": [
+        {"id": "UCS2Y83GD-fc7qqgNW5uj41g", "name": "SVBC TTD"}
+      ],
+      "search_queries": ["tirumala tirupati live darshan", "SVBC live"]
+    },
+    {
+      "id": "vaishno_devi",
+      "name": "Vaishno Devi",
+      "priority": 14,
+      "trusted_channels": [],
+      "search_queries": ["vaishno devi live darshan", "mata vaishno devi live"]
+    },
+    {
+      "id": "golden_temple",
+      "name": "Golden Temple Amritsar",
+      "priority": 15,
+      "trusted_channels": [],
+      "search_queries": ["golden temple live kirtan", "harmandir sahib live"]
+    }
+  ],
+  "filters": {
+    "exclude_title_keywords": ["2024", "2023", "2022", "old", "recorded"],
+    "min_viewer_count": 5,
+    "stream_must_start_after_hour_ist": 2
+  }
+}
