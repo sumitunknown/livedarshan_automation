@@ -13,7 +13,7 @@ on:
     branches: [main]
     paths:
       - 'temples.json'
-      - 'find_live_streams.py'
+      - 'find_live_streams_api.py'
 
 permissions:
   contents: write
@@ -36,13 +36,11 @@ jobs:
         with:
           python-version: '3.11'
       
-      - name: Install yt-dlp
-        run: |
-          pip install --upgrade yt-dlp
-      
       - name: Find live streams
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: |
-          python find_live_streams.py
+          python find_live_streams_api.py
       
       - name: Commit and push changes
         run: |
