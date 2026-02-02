@@ -116,6 +116,11 @@ def find_matching_temple(title: str, channel_id: str, temples: list) -> tuple:
     title_lower = title.lower()
     
     for temple in temples:
+        # First check if any exclude keywords match
+        exclude_keywords = temple.get('exclude_keywords', [])
+        if any(keyword.lower() in title_lower for keyword in exclude_keywords):
+            continue  # Skip this temple
+        
         for keyword in temple.get('title_keywords', []):
             if keyword.lower() in title_lower:
                 # Found a match - check if trusted channel

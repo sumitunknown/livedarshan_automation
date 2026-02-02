@@ -71,6 +71,11 @@ def find_matching_temple(video: dict, temples: list) -> dict | None:
     channel_id = video.get('channel_id', '')
     
     for temple in temples:
+        # First check if any exclude keywords match
+        exclude_keywords = temple.get('exclude_keywords', [])
+        if any(keyword.lower() in title for keyword in exclude_keywords):
+            continue  # Skip this temple
+        
         # Check if video is from trusted channel
         trusted_ids = [tc['id'] for tc in temple.get('trusted_channels', [])]
         if channel_id in trusted_ids:
