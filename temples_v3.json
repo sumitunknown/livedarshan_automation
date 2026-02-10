@@ -3,7 +3,7 @@
     {
       "id": "shirdi_sai",
       "name": "Shirdi Sai Baba",
-      "priority": 1,
+      "priority": 7,
       "title_keywords": ["shirdi", "sai baba", "साईं बाबा", "शिर्डी", "sai baba samadhi"],
       "trusted_channels": [
         {"id": "UC-JaNNlKf2DVDYXjx_Ok1CA", "name": "Sai Ki Mahima"},
@@ -15,7 +15,7 @@
     {
       "id": "somnath",
       "name": "Somnath Temple",
-      "priority": 2,
+      "priority": 4,
       "title_keywords": ["somnath", "सोमनाथ"],
       "trusted_channels": [
         {"id": "UCT1egsvA08YcdMLiEu1DTRg", "name": "Somnath Temple Official"}
@@ -25,7 +25,7 @@
     {
       "id": "salasar",
       "name": "Salasar Balaji",
-      "priority": 3,
+      "priority": 13,
       "title_keywords": ["salasar", "सालासर", "balaji salasar"],
       "trusted_channels": [
         {"id": "UC82-0zBQho_hyV10fFAAeQA", "name": "Shree Salasar Balaji Mandir"}
@@ -35,7 +35,7 @@
     {
       "id": "dwarkadhish",
       "name": "Dwarkadhish Temple",
-      "priority": 4,
+      "priority": 5,
       "title_keywords": ["dwarkadhish", "dwarka", "द्वारकाधीश", "द्वारका"],
       "trusted_channels": [
         {"id": "UCBAvMHZO3BIfMMhOK9LMOYQ", "name": "Shri Dwarkadhish Mandir"}
@@ -45,7 +45,7 @@
     {
       "id": "radhavallabh",
       "name": "Shri Radhavallabh Mandir",
-      "priority": 5,
+      "priority": 14,
       "title_keywords": ["radhavallabh", "राधावल्लभ", "vrindavan radhavallabh"],
       "trusted_channels": [
         {"id": "UCTw4wtqF6KEA8ULDSi_6fUQ", "name": "Shri Radhavallabh Mandir"}
@@ -55,7 +55,7 @@
     {
       "id": "mahakal",
       "name": "Mahakaleshwar Ujjain",
-      "priority": 6,
+      "priority": 2,
       "title_keywords": ["mahakal", "mahakaleshwar", "महाकाल", "महाकालेश्वर", "ujjain", "उज्जैन"],
       "trusted_channels": [
         {"id": "UC7q12ONY2mvuq066rreluhQ", "name": "Mahakaleshwar Jyotirlinga"}
@@ -65,7 +65,7 @@
     {
       "id": "mahalakshmi",
       "name": "Mahalakshmi Temple Mumbai",
-      "priority": 7,
+      "priority": 12,
       "title_keywords": ["mahalakshmi", "महालक्ष्मी", "mahalaxmi mumbai"],
       "trusted_channels": [
         {"id": "UCqNGTFK0_nHU2Ldj3ZKScYw", "name": "Shree Mahalakshmi Mandir Mumbai Official"}
@@ -75,7 +75,7 @@
     {
       "id": "siddhivinayak",
       "name": "Siddhivinayak Mumbai",
-      "priority": 8,
+      "priority": 10,
       "title_keywords": ["siddhivinayak", "सिद्धिविनायक", "mumbai siddhivinayak", "prabhadevi"],
       "trusted_channels": [
         {"id": "UCA99DrZabMr0ZncelhO6TkQ", "name": "Shree Siddhivinayak Ganapati Temple Trust"}
@@ -85,7 +85,7 @@
     {
       "id": "naina_devi",
       "name": "Naina Devi Temple",
-      "priority": 9,
+      "priority": 15,
       "title_keywords": ["naina devi", "नैना देवी"],
       "trusted_channels": [
         {"id": "UCXhail7h5FDRbHprlR56nIw", "name": "BHAKTI LIVE"}
@@ -95,7 +95,7 @@
     {
       "id": "iskcon_juhu",
       "name": "ISKCON Juhu Mumbai",
-      "priority": 10,
+      "priority": 11,
       "title_keywords": ["iskcon juhu", "iskcon mumbai", "इस्कॉन जुहू"],
       "trusted_channels": [
         {"id": "UC1vJ4RlWSHP6n0xL2G1tkYQ", "name": "ISKCON Juhu Mumbai"}
@@ -105,7 +105,7 @@
     {
       "id": "pashupatinath",
       "name": "Pashupatinath Temple",
-      "priority": 11,
+      "priority": 16,
       "title_keywords": ["pashupatinath nepal", "पशुपतिनाथ nepal", "nepal temple", "kathmandu pashupatinath"],
       "exclude_keywords": ["kashi", "varanasi", "banaras", "vishwanath", "काशी", "विश्वनाथ"],
       "trusted_channels": [],
@@ -114,7 +114,7 @@
     {
       "id": "jagannath",
       "name": "Jagannath Puri",
-      "priority": 12,
+      "priority": 3,
       "title_keywords": ["jagannath", "जगन्नाथ", "puri temple", "पुरी"],
       "trusted_channels": [
         {"id": "UCET-LB-LgAuDS-Cy8nfH4-w", "name": "JAY JAGANNATH TV"}
@@ -124,7 +124,7 @@
     {
       "id": "vishwanath",
       "name": "Kashi Vishwanath",
-      "priority": 13,
+      "priority": 1,
       "title_keywords": ["kashi vishwanath", "काशी विश्वनाथ", "varanasi temple", "banaras"],
       "exclude_keywords": ["pashupatinath", "nepal", "kathmandu", "पशुपतिनाथ"],
       "trusted_channels": [
@@ -136,7 +136,7 @@
     {
       "id": "tirupati",
       "name": "Tirumala Tirupati Balaji",
-      "priority": 14,
+      "priority": 6,
       "title_keywords": ["tirupati", "tirumala", "तिरुपति", "balaji tirupati", "SVBC", "TTD"],
       "trusted_channels": [
         {"id": "UCS2Y83GD-fc7qqgNW5uj41g", "name": "SVBC TTD"}
@@ -146,7 +146,7 @@
     {
       "id": "vaishno_devi",
       "name": "Vaishno Devi",
-      "priority": 15,
+      "priority": 8,
       "title_keywords": ["vaishno devi", "वैष्णो देवी", "mata vaishno"],
       "trusted_channels": [
         {"id": "UCziZy6xAlJWPzgIY4duxAeQ", "name": "MHONESH RADDHA"}
@@ -156,7 +156,7 @@
     {
       "id": "golden_temple",
       "name": "Golden Temple Amritsar",
-      "priority": 16,
+      "priority": 9,
       "title_keywords": ["golden temple", "harmandir sahib", "हरमंदिर साहिब", "amritsar", "gurbani kirtan"],
       "trusted_channels": [],
       "fallback_search": "golden temple live kirtan"
